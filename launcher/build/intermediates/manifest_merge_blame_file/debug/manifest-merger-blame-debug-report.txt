@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.UnityBridgeSample"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:7:5-65
+12-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:8:5-71
+13-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:8:22-68
+14
+15    <supports-screens
+15-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:10:5-15:40
+16        android:anyDensity="true"
+16-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:11:9-34
+17        android:largeScreens="true"
+17-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:12:9-36
+18        android:normalScreens="true"
+18-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:13:9-37
+19        android:smallScreens="true"
+19-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:14:9-36
+20        android:xlargeScreens="true" />
+20-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:15:9-37
+21
+22    <uses-feature android:glEsVersion="0x00030000" />
+22-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+22-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+23    <uses-feature
+23-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.vulkan.version"
+24-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-55
+25        android:required="false" />
+25-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+26    <uses-feature
+26-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-52
+28        android:required="false" />
+28-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-33
+29    <uses-feature
+29-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-63
+31        android:required="false" />
+31-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+32    <uses-feature
+32-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-72
+34        android:required="false" />
+34-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+35
+36    <application
+36-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:17:5-31:19
+37        android:name="com.DefaultCompany.UnityBridgeSample.BaseApplcation"
+37-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:18:9-39
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="true"
+40-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:19:9-41
+41        android:icon="@mipmap/app_icon"
+41-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:20:9-40
+42        android:label="@string/app_name"
+42-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:21:9-41
+43        android:testOnly="true"
+44        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+44-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:22:9-67
+45        <activity
+45-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:23:9-30:20
+46            android:name="com.DefaultCompany.UnityBridgeSample.permission.ToastActivity"
+46-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:24:13-53
+47            android:exported="true" >
+47-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:25:13-36
+48            <intent-filter>
+48-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:26:13-29:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:27:17-69
+49-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:27:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:28:17-77
+51-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:28:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-47:20
+55            android:name="com.unity3d.player.UnityPlayerActivity"
+55-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-66
+56            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+56-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-194
+57            android:hardwareAccelerated="false"
+57-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-48
+58            android:launchMode="singleTask"
+58-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-44
+59            android:screenOrientation="fullSensor"
+59-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-51
+60            android:theme="@style/UnityThemeSelector" >
+60-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-54
+61            <intent-filter>
+61-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:26:13-29:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:27:17-69
+62-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:27:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:28:17-77
+64-->/Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:28:27-74
+65            </intent-filter>
+66
+67            <meta-data
+67-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-43:40
+68                android:name="unityplayer.UnityActivity"
+68-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:17-57
+69                android:value="true" />
+69-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:17-37
+70            <meta-data
+70-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-46:40
+71                android:name="android.notch_support"
+71-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:17-53
+72                android:value="true" />
+72-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:17-37
+73        </activity>
+74
+75        <meta-data
+75-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-51:33
+76            android:name="unity.splash-mode"
+76-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-45
+77            android:value="0" />
+77-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-30
+78        <meta-data
+78-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:9-54:36
+79            android:name="unity.splash-enable"
+79-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-47
+80            android:value="True" />
+80-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-33
+81        <meta-data
+81-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:9-57:50
+82            android:name="notch.config"
+82-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-40
+83            android:value="portrait|landscape" />
+83-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-47
+84        <meta-data
+84-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:9-60:68
+85            android:name="unity.build-id"
+85-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-42
+86            android:value="9685ebe1-178f-4928-905a-9e2c1b1bd50d" />
+86-->[:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-65
+87    </application>
+88
+89</manifest>

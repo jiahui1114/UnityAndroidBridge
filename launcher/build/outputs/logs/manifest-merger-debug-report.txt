@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-63:12
+MERGED from [com.rokid.unitycallbridge:rkunitycallbridge:0.6.X-20210701.092056-1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/bbfdc4febc38f724bc67a094c5bb4f91/rkunitycallbridge-0.6.X-20210701.092056-1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0ae1458dbec56fe5392b8c6949145276/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/178cb27fbadeb828713c1a0d4975b9e4/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/c0fcaeb880e425e6e951358757733f33/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/162e71a6b2418f644dbc11343784bb4d/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/394cfd69c15f4e07cc465627ee328f2c/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/b313045cfbbf25727dee865da3dbcb2d/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/6366e485c45d44ef7de500cd604dc7da/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/5dbfa3d90c30701f5b25ede550fefb01/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/ac4710d0c144653a10ae682c48be11aa/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/6a98a85eea6e93edcc4dca7f509e1db9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/19ab5715418bf0e0fb2259af124ce86f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/93c3c9e44a3a5269f59adbcc5de81a0f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/04937715f5eddf8d98784bbe690ec2e9/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/233525eb6fc2c52f618952a903d42f6e/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/4a77691aad7e7f2f538ccf45ea9c8a2b/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0f3a95502d60f18ebf6305859ce2eb18/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d763e4e8f61d3721f65b30d59502a992/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/403a0ca1f1d54c6a28b7170d4bb8529e/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/c275f76abd27698ba55a81e4ff19715b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/ceeaaebc8524624cb90d34061e2d5b0b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/400b58e8952b1145ff429c54ca8511b7/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/db842c62f8b3f6d754b57f81ad62807a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d80d4ed4683da084cb4c61073ce8f286/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:4:5-51
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:5:5-45
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:8:22-68
+supports-screens
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:10:5-15:40
+	android:largeScreens
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:12:9-36
+	android:smallScreens
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:13:9-37
+	android:xlargeScreens
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:15:9-37
+	android:anyDensity
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:11:9-34
+application
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:17:5-31:19
+MERGED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-61:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0ae1458dbec56fe5392b8c6949145276/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0ae1458dbec56fe5392b8c6949145276/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d763e4e8f61d3721f65b30d59502a992/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d763e4e8f61d3721f65b30d59502a992/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:19:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:20:9-40
+	android:theme
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:22:9-67
+	android:name
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:18:9-39
+activity#com.DefaultCompany.UnityBridgeSample.permission.ToastActivity
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:24:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [com.rokid.unitycallbridge:rkunitycallbridge:0.6.X-20210701.092056-1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/bbfdc4febc38f724bc67a094c5bb4f91/rkunitycallbridge-0.6.X-20210701.092056-1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rokid.unitycallbridge:rkunitycallbridge:0.6.X-20210701.092056-1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/bbfdc4febc38f724bc67a094c5bb4f91/rkunitycallbridge-0.6.X-20210701.092056-1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0ae1458dbec56fe5392b8c6949145276/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0ae1458dbec56fe5392b8c6949145276/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/178cb27fbadeb828713c1a0d4975b9e4/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/178cb27fbadeb828713c1a0d4975b9e4/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/c0fcaeb880e425e6e951358757733f33/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/c0fcaeb880e425e6e951358757733f33/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/162e71a6b2418f644dbc11343784bb4d/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/162e71a6b2418f644dbc11343784bb4d/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/394cfd69c15f4e07cc465627ee328f2c/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/394cfd69c15f4e07cc465627ee328f2c/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/b313045cfbbf25727dee865da3dbcb2d/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/b313045cfbbf25727dee865da3dbcb2d/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/6366e485c45d44ef7de500cd604dc7da/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/6366e485c45d44ef7de500cd604dc7da/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/5dbfa3d90c30701f5b25ede550fefb01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/5dbfa3d90c30701f5b25ede550fefb01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/ac4710d0c144653a10ae682c48be11aa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/ac4710d0c144653a10ae682c48be11aa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/6a98a85eea6e93edcc4dca7f509e1db9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/6a98a85eea6e93edcc4dca7f509e1db9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/19ab5715418bf0e0fb2259af124ce86f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/19ab5715418bf0e0fb2259af124ce86f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/a1f0db5d9d41ca55527f5fa0320ab313/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/93c3c9e44a3a5269f59adbcc5de81a0f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/93c3c9e44a3a5269f59adbcc5de81a0f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/04937715f5eddf8d98784bbe690ec2e9/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/04937715f5eddf8d98784bbe690ec2e9/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/233525eb6fc2c52f618952a903d42f6e/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/233525eb6fc2c52f618952a903d42f6e/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/4a77691aad7e7f2f538ccf45ea9c8a2b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/4a77691aad7e7f2f538ccf45ea9c8a2b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0f3a95502d60f18ebf6305859ce2eb18/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/0f3a95502d60f18ebf6305859ce2eb18/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d763e4e8f61d3721f65b30d59502a992/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d763e4e8f61d3721f65b30d59502a992/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/403a0ca1f1d54c6a28b7170d4bb8529e/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/403a0ca1f1d54c6a28b7170d4bb8529e/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/c275f76abd27698ba55a81e4ff19715b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/c275f76abd27698ba55a81e4ff19715b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/ceeaaebc8524624cb90d34061e2d5b0b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/ceeaaebc8524624cb90d34061e2d5b0b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/400b58e8952b1145ff429c54ca8511b7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/400b58e8952b1145ff429c54ca8511b7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/db842c62f8b3f6d754b57f81ad62807a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/db842c62f8b3f6d754b57f81ad62807a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d80d4ed4683da084cb4c61073ce8f286/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jiahui/.gradle/caches/transforms-2/files-2.1/d80d4ed4683da084cb4c61073ce8f286/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:9-60:68
+	android:value
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/jiahui/Code/jiahui1114/UnityBridgeSample/AndroidProject/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-42
